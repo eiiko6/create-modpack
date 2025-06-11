@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e3a96b46381f043f7eb212cd42c866aaee415b79fd6644b69c6617f0007e4305"
+hash = "174d444a2010b7580b585f98a30136969856fabf9df692dd4d978310b57dc391"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -67,6 +67,26 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "ac7a23bef8a66288e60bb8767df21b76f41b672e8f762ed1aef1f93876eb8689"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "60300c6873d127b49ba31b11abc8fa7ac65008480c21c0db4c36d46db25426c5"
 metafile = true
 
 [[files]]

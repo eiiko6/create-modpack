@@ -25,3 +25,12 @@ Place the `.jar` file inside your instance's `.minecraft` folder.
 ### **4. Launch the instance**
 
 Now you can launch the instance, it should download all the mods and start the game.
+
+## Build the latest version
+
+To build the modpack yourself, run either of those:
+
+```bash
+packwiz curseforge export
+packwiz modrinth export
+```
