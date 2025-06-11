@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e3a96b46381f043f7eb212cd42c866aaee415b79fd6644b69c6617f0007e4305"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "7dc148833d9a455f8ddebab5c3d8a03c2797cff1296d8c0bcb526e6226b97cb3"
 metafile = true
