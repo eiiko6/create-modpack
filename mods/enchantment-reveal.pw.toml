@@ -1,0 +1,13 @@
+name = "Enchantment Reveal"
+filename = "Enchantment-Reveal-1.20.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xht4wlLG/versions/4wP9H1Id/Enchantment-Reveal-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "660e6e6ebfd0f4aa468ac7cb2b4bf56c9e00a21947e7ee8a0ef3ea05cff6e8bace53f0a3574f1c0f273ca5f0983a3e5844181ce1d7cd46ed09aeaf75ac906a77"
+
+[update]
+[update.modrinth]
+mod-id = "Xht4wlLG"
+version = "4wP9H1Id"
