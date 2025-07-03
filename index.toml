@@ -15,8 +15,18 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "f86ba6585c026d2f1ad11ad0de9cd08707e96d2e3211e23f6e330095f37f4b8f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
 metafile = true
 
 [[files]]
@@ -27,6 +37,16 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
@@ -65,8 +85,18 @@ hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
 metafile = true
 
 [[files]]
@@ -85,13 +115,38 @@ hash = "e74d1147010dbae8eb9c9632a443c4dd0772d3c2281d1ae20c6ff88d1ff9726e"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "d441200178f8ef0e87a872a495fa0a502139ddd48036b2ede516f4fcd8660be1"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
+metafile = true
+
+[[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "00cf573cba0077f7fe787eecf22a879894f80e0795fa1cabbfaa87bfaa5c584e"
+metafile = true
+
+[[files]]
+file = "mods/create-mod-trims.pw.toml"
+hash = "598af112d247563245d5638a384c711eb8d6f19d2281da119aca3a82a313a609"
 metafile = true
 
 [[files]]
@@ -110,6 +165,16 @@ hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "ae8359ae4ef6463114d0ea0ea65fb252597309238e4366c22ee08558dd997d7e"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "72720191d39513ffc93e8d1ed60fffd7faa6f43a127e8138f1f10c07a3c2b847"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
@@ -125,11 +190,6 @@ hash = "627acbc1c290e5b1950ef60be450d0fe79b00c31f549cad604eb993c396cf53c"
 metafile = true
 
 [[files]]
-file = "mods/enchantment-reveal.pw.toml"
-hash = "9c5a762cdc89079b226b79bab25c6a76aa8c1aded62e69c1e81e43c027fc4f18"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-transfer.pw.toml"
 hash = "5f228b9e7971dd7e878cecb254f7c23e936d09a02ac7b883573963123fdf95f6"
 metafile = true
@@ -142,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "18b0d44213fd3c7e22748e4ad775e6ce5cf243f9b38294130a826c845ae913c4"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "174c496d2d38d39ef7c531a34e43e1ec949d418816cdb2f8161dd6f2990f8752"
 metafile = true
 
 [[files]]
@@ -165,6 +230,11 @@ hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "fd28ed613c3f019627d305097f18c6be85b76fc96d2d719cd8d9f5b9420ca9eb"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
@@ -185,6 +255,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "f5e0981d6bbd093b174883d5fdd4d49f0385cfc11f952ddfc9d489b5b1081337"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -200,6 +275,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "fc3a2ab77cbe31040c59d1ba8cbd5283a9e6d2603ccf64784bd33205d4da81f1"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
@@ -212,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "9f85ee9a48da4ead32ea56a7ea064a7002a406d1d87130ca60a41610285afa2b"
 metafile = true
 
 [[files]]
@@ -255,8 +340,18 @@ hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "9ad63ddb4586e2650aca101712f9d0f5efa14e5959965cb6e6fc6ad300e8c3ee"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
@@ -265,8 +360,33 @@ hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "eb0f42ccd89fea2e97f49ac596c719dd22d62e6525e7f0ae7ac5ce7f637da862"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "b09902f82578ffc80dbf1d84aee798c53de0ac8c8b89a5e6284b74e6e32c690a"
 metafile = true
 
 [[files]]
@@ -300,6 +420,26 @@ hash = "9be3955190299fe8add6d555aabc46f96fc4246836163b867602924f43fd6611"
 metafile = true
 
 [[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "6677b688d4d6ac20c1e9fe5df29f1e48931aca9275e0baa946fa278bf0f9f15d"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "5638be69d838027c8a474558650990df45be47d410db4b73c902b130b3eb7f34"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "0714532ce3dc614172e9dcbafbfb0f1a2321f3e49c9ec97d3d701dafb6f9029d"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
@@ -322,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "328e3a71ad894b40c8fa9640bb27534e04740ff697949b45792baf4730094e3f"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "69169844cae0cbf0314c6dee83ed064659870170253c338cc24066b176e84b0c"
 metafile = true
 
 [[files]]
