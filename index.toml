@@ -6,7 +6,12 @@ hash = "174d444a2010b7580b585f98a30136969856fabf9df692dd4d978310b57dc391"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
+hash = "038d6fb5b14ab1b8393bec412eece3e76c06866c4acc841c95dafea8367b4ffe"
+metafile = true
+
+[[files]]
+file = "mods/amarite.pw.toml"
+hash = "57e5355245b4a51951cbc2cb459371f25fc797cc2bbff9c9c158cd909bd3936a"
 metafile = true
 
 [[files]]
@@ -22,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/arsenal.pw.toml"
+hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
@@ -71,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
+hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
 
 [[files]]
@@ -171,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "72720191d39513ffc93e8d1ed60fffd7faa6f43a127e8138f1f10c07a3c2b847"
+hash = "19ed3ab7fccbb3946ce87aa84bfe6aa1bfe546bd007d447b0112e1cf114d14ee"
 metafile = true
 
 [[files]]
@@ -216,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -365,6 +375,11 @@ hash = "c350fccb98a0ea4c3637bbcab7cb94fb9c504251e96d744712660966f7820f5b"
 metafile = true
 
 [[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
@@ -431,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "5638be69d838027c8a474558650990df45be47d410db4b73c902b130b3eb7f34"
+hash = "e7c6f6e5dc19540c354302cac223d9b5ff096b474fd332e0cd9d5663a4ca96e7"
 metafile = true
 
 [[files]]
