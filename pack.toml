@@ -1,12 +1,12 @@
 name = "Create Server Modpack"
 author = "eiiko6"
-version = "1.5.0"
+version = "1.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f657c34dd14f531d922398afd4d33c86242a1cc11e5517899139d744243c1379"
+hash = "7c91edf4adce97eddd624057f7319571dd0e0d436e9169c2522d3a5e685bf49e"
 
 [versions]
 fabric = "0.16.10"

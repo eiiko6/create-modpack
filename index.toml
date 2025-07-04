@@ -50,11 +50,6 @@ hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
@@ -442,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
+metafile = true
+
+[[files]]
+file = "mods/srdp.pw.toml"
+hash = "67f6d21fb847eeecec9978e0a10c77f987073e6f2be5f20db0a07abcb046952a"
 metafile = true
 
 [[files]]
