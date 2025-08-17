@@ -1,0 +1,13 @@
+name = "Petfection"
+filename = "petfection-1.1-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kPMYz2An/versions/WWPOUw7e/petfection-1.1-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "f94d317b30d599e54d9da923d8bfb23c89423ac71b2dc4b526aabd3d37a299fb9ba32bb75ffe7837d93db26c1778c7d269823ccfc1dde64445dbaf509a934168"
+
+[update]
+[update.modrinth]
+mod-id = "kPMYz2An"
+version = "WWPOUw7e"

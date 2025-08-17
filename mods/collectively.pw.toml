@@ -1,0 +1,13 @@
+name = "Collectively"
+filename = "collectively-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yXdkWg6l/versions/7CRNTdoK/collectively-1.0.0.jar"
+hash-format = "sha512"
+hash = "95e8632b83b85deb4fd290e6ab4cf80de4254d7755aa3d9823504b4f98d4ba57db4d9dfa4b5ef05aa6a656a97d8fbcbf4846c4d29f6a80d0337aa5f38b507ed9"
+
+[update]
+[update.modrinth]
+mod-id = "yXdkWg6l"
+version = "7CRNTdoK"

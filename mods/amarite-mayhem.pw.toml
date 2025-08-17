@@ -1,0 +1,13 @@
+name = "Amarite Mayhem"
+filename = "amaritemayhem-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8JG77yKf/versions/DBdiYuSS/amaritemayhem-1.0.2.jar"
+hash-format = "sha512"
+hash = "98842935a98269a90d2d188585d5fdf5051224358f4ce03fa86ca7ba201439aa34602759ccd3267edfe97eda0951f34a4311106d0949bcc5dc6654ebece5567f"
+
+[update]
+[update.modrinth]
+mod-id = "8JG77yKf"
+version = "DBdiYuSS"

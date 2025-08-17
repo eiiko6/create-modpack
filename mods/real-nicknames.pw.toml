@@ -1,0 +1,13 @@
+name = "Real Nicknames"
+filename = "nicknames-1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aleiskI5/versions/YiltDs01/nicknames-1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "4b630523606f735eff419425b5a24f676587ff109ca6a9b271bb85ed86c96704ef5a556a21fdc398ce2b59f41f86e1d51ef8df435c41d6040d2945ec0f12dcfa"
+
+[update]
+[update.modrinth]
+mod-id = "aleiskI5"
+version = "YiltDs01"
