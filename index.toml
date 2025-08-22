@@ -14,6 +14,11 @@ hash = "c1e356c39dca0549fd7a88da7f183b7f65cb63dcdd48d120b8dd5b75dbad6999"
 metafile = true
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "f61033f5acde76e2405e9549ff54ccdf4d3dc24a9caca015720523f02ee91033"
+metafile = true
+
+[[files]]
 file = "mods/amarite.pw.toml"
 hash = "57e5355245b4a51951cbc2cb459371f25fc797cc2bbff9c9c158cd909bd3936a"
 metafile = true
@@ -141,11 +146,6 @@ metafile = true
 [[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "d441200178f8ef0e87a872a495fa0a502139ddd48036b2ede516f4fcd8660be1"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
 metafile = true
 
 [[files]]
@@ -489,6 +489,11 @@ hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "15a2a2b64ce2acc534793268a84f76e1f46cbccd409633879b1655afeb0b85c7"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
@@ -551,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]
