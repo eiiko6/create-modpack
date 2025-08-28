@@ -1,0 +1,13 @@
+name = "Sleepy Hollows"
+filename = "sleepy_hollows-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7LLnfx8/versions/wDeelpy6/sleepy_hollows-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "b4e42612479b31037dbd851222bf882bb0138e7801c5e757c61c1fc23a99678a7bd967bb07082b617f07bbd002d9639bd8ee6051a696c3372c569c1184213f17"
+
+[update]
+[update.modrinth]
+mod-id = "d7LLnfx8"
+version = "wDeelpy6"
