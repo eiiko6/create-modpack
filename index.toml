@@ -23,6 +23,11 @@ hash = "f61033f5acde76e2405e9549ff54ccdf4d3dc24a9caca015720523f02ee91033"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "f2a3d2af3f3ec8ed1bcdd436a76d89ec9655f20809c2274cb1be5392bb3e904e"
+metafile = true
+
+[[files]]
 file = "mods/alcohol.pw.toml"
 hash = "5536f5ce6494e40f19ca7d7cbb9c4742f4f6cb1a1b60a4bae354235136e1779a"
 metafile = true
@@ -143,6 +148,11 @@ hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
@@ -150,6 +160,16 @@ metafile = true
 [[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "f549dcd234ee9e701122490d5b26ea3d95dd7d48374b2faa7a9657f21d86520e"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "31fe10bd1fe4c90bf73e6ffdd8479499610f9184568e952f60ac3a109fadb22a"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "a59fd86db347785d3622ea88af11307eccca43690a76ff6aadb7ddfd360b68e1"
 metafile = true
 
 [[files]]
@@ -168,6 +188,11 @@ hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "bf00fc836ad7fde31173e8babcdf9c78baa32022e88f68872ff6090ed8fe5f36"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "0be9a4a21dec89c60c7952c4ac9c34387bd2714666a90564cf0d2524ea033a1c"
 metafile = true
@@ -175,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "24a248ebfe79d6e08095c7048b8a909fb9a4d7751e6f5f83069724f06514fb47"
 metafile = true
 
 [[files]]
@@ -188,13 +218,28 @@ hash = "598af112d247563245d5638a384c711eb8d6f19d2281da119aca3a82a313a609"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-metals.pw.toml"
+hash = "a148e2a84e91d4cc086911492305fd22dd512dab17fe92bf35c028d7ba6b3cc5"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
+file = "mods/create-renewable-netherite.pw.toml"
+hash = "a415fb5b85a7de4ae22d4c75fe7ad4f3528171d0564b9f49245101b11813439a"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "f131ebc6dcb9b5e6c340c2569bf6d4341daa65aa0af5667e88adf03768dfee01"
 metafile = true
 
 [[files]]
@@ -343,6 +388,11 @@ hash = "f5e0981d6bbd093b174883d5fdd4d49f0385cfc11f952ddfc9d489b5b1081337"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -435,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8f4bdcf3f56dd99067356fff5d5b2b288e6c0f132447777f3fe89abced76a70e"
 metafile = true
 
 [[files]]
@@ -538,11 +593,6 @@ hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "15a2a2b64ce2acc534793268a84f76e1f46cbccd409633879b1655afeb0b85c7"
-metafile = true
-
-[[files]]
 file = "mods/sleepy-hollows.pw.toml"
 hash = "2d96e61a9c688451984fc73912f418b315c6cfdc406ba665923d33620140f316"
 metafile = true
@@ -578,11 +628,6 @@ hash = "b4db824c83bb9476a4b9b13d9a4af28998d9fbf1ad24071514662fd0c81190be"
 metafile = true
 
 [[files]]
-file = "mods/srdp.pw.toml"
-hash = "67f6d21fb847eeecec9978e0a10c77f987073e6f2be5f20db0a07abcb046952a"
-metafile = true
-
-[[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "c2c208ce56f4b64978606fe95fefe9f35909d880f8a7810f3924888418b26a46"
 metafile = true
@@ -610,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "ca23b757810fe02023820ffe734f7002f5d6651a1812c1519d614a25bf848bf0"
 metafile = true
 
 [[files]]
